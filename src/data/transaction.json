@@ -105,7 +105,7 @@
     "id": "c9ebed6a-3a02-4b49-ac0d-0534b51f2bfd",
     "type": "invoice",
     "amount": "878.67",
-    "amount": "HKD"
+    "currency": "HKD"
   },
   {
     "id": "a4a98b0e-b22c-438b-9f83-de2df52110c8",
